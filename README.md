@@ -1,4 +1,3 @@
-![Screenshot 2024-04-08 182820](https://github.com/HojjatAhmadi/Find-Relation/assets/127611388/16c8b1e6-4916-4dcb-8ff5-dd74f10e3e8e)![Screenshot 2024-04-08 183011](https://github.com/HojjatAhmadi/Find-Relation/assets/127611388/a31b981e-0b14-4b86-8156-6fa6f62d3059)[Uploading Screenshot 2024-04-08 183011.png…]()
 ![Screenshot 2024-04-08 183011](https://github.com/HojjatAhmadi/Find-Relation/assets/127611388/86ba1878-88e4-475f-af06-d07ab163c4f3)
 ![Screenshot 2024-04-08 182820](https://github.com/HojjatAhmadi/Find-Relation/assets/127611388/44a53c90-bcdf-4ff4-96e4-04ca81920086)
 Find Relation of a relation between two sub and create the matrix of relation then print it in output ,
